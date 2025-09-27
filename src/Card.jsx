@@ -59,7 +59,7 @@ export const Card = () => {
         )}
         </select>
 
-         </label>
+         </label> 
 
 
         &nbsp;  &nbsp;
