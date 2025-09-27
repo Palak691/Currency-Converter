@@ -1,9 +1,10 @@
 {
   "name": "currencyconverter",
   "private": true,
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
-  "homepage": ".",
+  
 
   "scripts": {
     "dev": "vite",
